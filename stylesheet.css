@@ -1,0 +1,21 @@
+* {
+    font-family: 'Merriweather', serif;
+}
+
+body {
+    width: 80%;
+    margin: auto;
+}
+
+h1 {
+    padding-top: 5%;
+}
+
+h2 {
+    margin-top: 12%;
+    font-size: 1.5rem;
+}
+
+li {
+    list-style-type: none;
+}
